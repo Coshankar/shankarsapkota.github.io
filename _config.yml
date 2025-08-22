@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -60,20 +60,18 @@ plugins:
 author:
   name   : "Shankar Sapkota"
   avatar : "/assets/images/photo1.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I’m Shankar Sapkota, originally from Nepal, and currently pursuing a graduate degree in medical physics at Creighton University, where I also serve as a teaching fellow. With a strong background in physics, mathematics, and computational methods, I am passionate about applying physics to medicine, and I am currently engaged in prostate SBRT commissioning research at Jaeger Corporation in Omaha, NE"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+ #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  url: "https://"
+   - label: "Twitter"
+  icon: "fab fa-fw fa-twitter-square"
+  url: "https://twitter.com/irradiating24"
+- label: "LinkedIn"
+  icon: "fab fa-fw fa-linkedin"
+  url: "https://www.linkedin.com/in/shankar-sapkota/"
+
 
 footer:
   links:
