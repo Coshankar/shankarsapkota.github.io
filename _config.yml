@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shankar Sapkota"
   avatar : "/assets/images/photo1.jpg"
-  bio    : "I’m Shankar Sapkota, originally from Nepal, and currently pursuing a graduate degree in medical physics at Creighton University, where I also serve as a teaching fellow. With a strong background in physics, mathematics, and computational methods, I am passionate about applying physics to medicine, and I am currently engaged in prostate SBRT commissioning research at Jaeger Corporation in Omaha, NE"
+  bio    : "I’m Shankar Sapkota, originally from Nepal, and currently pursuing the graduate degree in medical physics at Creighton University, where I also serve as a teaching fellow. With a strong background in physics, mathematics, and computational methods, I am passionate about applying physics to medicine, and I am currently engaged in prostate SBRT commissioning research at Jaeger Corporation in Omaha, NE"
   links:
  #- label: "Website"
     #  icon: "fas fa-fw fa-link"
